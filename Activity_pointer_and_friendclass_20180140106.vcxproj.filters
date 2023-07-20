@@ -26,5 +26,8 @@
     <ClInclude Include="pointer3.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="friendclass4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
