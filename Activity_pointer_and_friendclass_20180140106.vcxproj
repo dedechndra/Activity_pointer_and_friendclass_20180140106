@@ -131,6 +131,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="friendclass4.h" />
+    <ClInclude Include="friendclass5.h" />
     <ClInclude Include="pointer2.h" />
     <ClInclude Include="pointer3.h" />
   </ItemGroup>

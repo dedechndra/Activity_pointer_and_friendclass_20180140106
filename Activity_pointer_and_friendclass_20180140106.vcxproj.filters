@@ -29,5 +29,8 @@
     <ClInclude Include="friendclass4.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="friendclass5.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
